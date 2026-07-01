@@ -8,11 +8,11 @@
 
 *Digital Craftsman (Developer / Programmer)*
 
-I am a first-year AI & Data Science student and full-stack developer at MKCE, currently scaling my startup **Unitaryx** while building social impact projects like *AquaSight AI* and *Vision X*. Passionate about IoT, ML, and retro-tech design, I am actively seeking collaborations in open-source to bridge advanced AI with real-world accessibility.
+I am a first-year AI & Data Science student and full-stack developer at MKCE, currently scaling our startup **Unitaryx** while building social impact projects like *Hydronix*, *TaskAssist*, and *NJ Math*. Passionate about IoT, ML, and retro-tech design, I am actively seeking collaborations in open-source to bridge advanced AI with real-world accessibility.
 
 - ✨ Student of life :)
 - 🌱 I'm currently learning many things, I believe that everyday is a learning opportunity.
-- 🏢 Scaling my startup **Unitaryx** & building *AquaSight AI* and *Vision X*.
+- 🏢 Scaling our startup **Unitaryx** & building *Hydronix*, *TaskAssist*, and *NJ Math*.
 - 🎓 First-year AI & Data Science student at MKCE.
 - 💡 Passionate about IoT, ML, and retro-tech design.
 - 📫 Reach me at: [ruthram667@gmail.com](mailto:ruthram667@gmail.com)
