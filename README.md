@@ -4,7 +4,9 @@
 
 ## 😎 I'M RUTHRAMOORTHY!
 
-<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<div align="center">
+  <img alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+</div>
 
 *Digital Craftsman (Developer / Programmer)*
 
